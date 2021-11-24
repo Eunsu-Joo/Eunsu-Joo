@@ -1,16 +1,18 @@
-### Hi there 👋
+# 💎 Hello Eunsu World!
 
-<!--
-**Eunsu-Joo/Eunsu-Joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Commit Rules
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ Success : Problem from
+
+➕ Add : Add Things
+
+❗ Error : Error Name
+
+❗❗ Don't touch this commit
+
+➰ Test => TestName, test filename, line
+
+◽ File Name : changed / deleted / ...ect
+
+◾ Changed Things => small changed things (Only one sentence)

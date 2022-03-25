@@ -26,7 +26,7 @@ I hope to build a bueatiful and clean code. ✨ <br />
 
 ➰ Test => TestName, test filename, line
 
-◽ File Name : changed / deleted / ...ect
+⛏ 
 
 ◾ Changed Things => small changed things (Only one sentence)
 

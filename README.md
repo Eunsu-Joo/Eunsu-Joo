@@ -19,6 +19,3 @@ I hope to build a bueatiful and clean code. ✨ <br />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=Apollo GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/JSON DB-000000?style=for-the-badge&logo=JSON&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
 
-◾ Changed Things => small changed things (Only one sentence)
-
-🗨️ Todo => write todo list

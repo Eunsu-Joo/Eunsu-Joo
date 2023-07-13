@@ -18,19 +18,6 @@ I hope to build a bueatiful and clean code. ✨ <br />
 ### 🔸 database
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=Apollo GraphQL&logoColor=white"> <img src="https://img.shields.io/badge/JSON DB-000000?style=for-the-badge&logo=JSON&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
-## Commit Rules 
-
-✔ Success : Problem from
-
-➕ Add : Add Things
-
-❗ Error : Error Name
-
-❗❗ Don't touch this commit
-
-➰ Test => TestName, test filename, line
-
-⛏  revise => revise files, things..
 
 ◾ Changed Things => small changed things (Only one sentence)
 
